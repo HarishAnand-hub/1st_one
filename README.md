@@ -42,7 +42,19 @@ The Magic Box is the external control unit for the Magician Lite that handles pr
 
 ---
 
-### 2. Point Comparison
+### 2. Screenshot of Code
+
+![Code Screenshot](code.png)
+
+---
+
+### 3. Drawing Output
+
+![CIM Drawing](drawing.png)
+
+---
+
+### 4. Point Comparison
 
 | Point | Intended X (mm) | Intended Y (mm) | Intended Z (mm) | Intended R (°) | Motion Type | Actual X (mm) | Actual Y (mm) | Actual Z (mm) | Actual R (°) | Positional Error (mm) |
 |-------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
