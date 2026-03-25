@@ -1,7 +1,6 @@
-# RAS 545 Laboratory FALL 2025 — Lab 1: Introduction to Robots
+# Intro to Industrial Robotic Arms
 
-**Name:** Harish Anand  
-**Student ID:** 1237366951
+**Name:** Harish Anand
 
 ---
 
